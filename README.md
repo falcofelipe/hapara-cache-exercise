@@ -1,4 +1,5 @@
-# hapara-cache-exercise
+# Hapara Cache Exercise - Felipe Falco
+
 Small Cache Exercise done for Hapara "Junior Developer" job application.
 
 If you are just interested in analyzing the class of LRUCache created for the exercise, go to the file "LRUCache.cs" on the root folder.
