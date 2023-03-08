@@ -1,0 +1,15 @@
+C:\Users\falco\Programming\Hapara Cache Exercise\obj\Debug\net6.0\Hapara Cache Exercise.csproj.AssemblyReference.cache
+C:\Users\falco\Programming\Hapara Cache Exercise\obj\Debug\net6.0\Hapara Cache Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falco\Programming\Hapara Cache Exercise\obj\Debug\net6.0\Hapara Cache Exercise.AssemblyInfoInputs.cache
+C:\Users\falco\Programming\Hapara Cache Exercise\obj\Debug\net6.0\Hapara Cache Exercise.AssemblyInfo.cs
+C:\Users\falco\Programming\Hapara Cache Exercise\obj\Debug\net6.0\Hapara Cache Exercise.csproj.CoreCompileInputs.cache
+C:\Users\falco\Programming\Hapara Cache Exercise\bin\Debug\net6.0\Hapara Cache Exercise.exe
+C:\Users\falco\Programming\Hapara Cache Exercise\bin\Debug\net6.0\Hapara Cache Exercise.deps.json
+C:\Users\falco\Programming\Hapara Cache Exercise\bin\Debug\net6.0\Hapara Cache Exercise.runtimeconfig.json
+C:\Users\falco\Programming\Hapara Cache Exercise\bin\Debug\net6.0\Hapara Cache Exercise.dll
+C:\Users\falco\Programming\Hapara Cache Exercise\bin\Debug\net6.0\Hapara Cache Exercise.pdb
+C:\Users\falco\Programming\Hapara Cache Exercise\obj\Debug\net6.0\Hapara Cache Exercise.dll
+C:\Users\falco\Programming\Hapara Cache Exercise\obj\Debug\net6.0\refint\Hapara Cache Exercise.dll
+C:\Users\falco\Programming\Hapara Cache Exercise\obj\Debug\net6.0\Hapara Cache Exercise.pdb
+C:\Users\falco\Programming\Hapara Cache Exercise\obj\Debug\net6.0\Hapara Cache Exercise.genruntimeconfig.cache
+C:\Users\falco\Programming\Hapara Cache Exercise\obj\Debug\net6.0\ref\Hapara Cache Exercise.dll
